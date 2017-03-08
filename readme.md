@@ -1,4 +1,4 @@
-# Learn Redux
+# React + Redux + Instagram
 
 A simple React + Redux implementation based on Wes Bos' tutorial.
 
